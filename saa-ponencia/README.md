@@ -8,3 +8,7 @@ Uso educativo, sin fines comerciales. Créditos:
 - `resolucion_349_de_2026_p1.jpg`: primera página de la Resolución 000349 de 2026 del Ministerio de Agricultura y Desarrollo Rural (acto oficial).
 - `qr_folu_colombia.png`: código QR hacia https://www.folucolombia.org (generado para esta ponencia).
 - `qr_wff_capitulo_juventud.png`: código QR hacia el formulario del Capítulo Nacional de la Juventud de Colombia (World Food Forum), tomado del enlace del código QR de la presentación del curso.
+
+## Ilustraciones (carpeta `ilustraciones/`)
+
+Ilustraciones generadas con inteligencia artificial en Gamma para la presentación (sin personas). Uso decorativo, sin fines comerciales.
